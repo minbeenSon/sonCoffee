@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.005aed86.chunk.css",
+    "main.js": "/static/js/main.ab01025c.chunk.js",
+    "main.js.map": "/static/js/main.ab01025c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4c36c93.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4c36c93.js.map",
+    "static/js/2.8ba52daa.chunk.js": "/static/js/2.8ba52daa.chunk.js",
+    "static/js/2.8ba52daa.chunk.js.map": "/static/js/2.8ba52daa.chunk.js.map",
+    "static/js/3.39a38251.chunk.js": "/static/js/3.39a38251.chunk.js",
+    "static/js/3.39a38251.chunk.js.map": "/static/js/3.39a38251.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.005aed86.chunk.css.map": "/static/css/main.005aed86.chunk.css.map",
+    "static/js/2.8ba52daa.chunk.js.LICENSE.txt": "/static/js/2.8ba52daa.chunk.js.LICENSE.txt",
+    "static/media/bean.png": "/static/media/bean.3a318969.png",
+    "static/media/bean0.png": "/static/media/bean0.7ef3d204.png",
+    "static/media/bean1.png": "/static/media/bean1.d970f734.png",
+    "static/media/bean2.png": "/static/media/bean2.75999628.png",
+    "static/media/coffee.png": "/static/media/coffee.49f54a6e.png",
+    "static/media/coffee0.png": "/static/media/coffee0.062dc647.png",
+    "static/media/coffee1.png": "/static/media/coffee1.3cb88a75.png",
+    "static/media/coffee2.png": "/static/media/coffee2.bce8a475.png",
+    "static/media/coffee3.png": "/static/media/coffee3.024f88eb.png",
+    "static/media/coffee4.png": "/static/media/coffee4.ea14259f.png",
+    "static/media/App.css": "/static/media/main_img.1aa501d1.jpg",
+    "static/media/mug.png": "/static/media/mug.2bd80af5.png",
+    "static/media/mug0.png": "/static/media/mug0.9b2132e5.png",
+    "static/media/mug1.png": "/static/media/mug1.157b48cb.png",
+    "static/media/mug2.png": "/static/media/mug2.2ab88249.png",
+    "static/media/mug3.png": "/static/media/mug3.2463bf06.png",
+    "static/media/tumbler.png": "/static/media/tumbler.336750ac.png",
+    "static/media/tumbler0.png": "/static/media/tumbler0.eba625e6.png",
+    "static/media/tumbler1.png": "/static/media/tumbler1.bd9a67e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4c36c93.js",
+    "static/js/2.8ba52daa.chunk.js",
+    "static/css/main.005aed86.chunk.css",
+    "static/js/main.ab01025c.chunk.js"
+  ]
+}
